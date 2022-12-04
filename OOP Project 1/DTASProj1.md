@@ -1,0 +1,1 @@
+Write a program that prompts for a temperature in Celsius, converts it to Fahrenheit, then displays the answer appropriately labeled.

@@ -1,0 +1,2 @@
+Create a lottery number generator.  This generator produces a 7-digit lottery number by randomly generating the digits 0 through 9 and placing them into a list.   Afterwards you are to have another loop which displays the lottery number.
+Extra credit: create two functions. DTASLottoGenerator() which generates and returns the lottery number and DTASDisplay(list) which takes the list and displays it on your screen.

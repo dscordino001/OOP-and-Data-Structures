@@ -1,0 +1,8 @@
+Create a class DTASEmployee.   This class will have the data: Employee’s name, Employee’s number, Employee’s age.
+It will contain accessor and mutator methods for each of these.  It will also contain a __str__ method which will create a string containing each of the data items, properly labeled, on its own line (remember ‘\n’.)  It will also contain the method pay() which will return None.
+You will then create a class DTASProductionWorker.  This class is derived from DTASEmployee and will contain the additional data: Employee’s Shift (only 1, 2, or 3.  An invalid number will be stored as 1, the default value.), Employee’s hourly rate, Number of hours the employee worked
+It will contain accessor and mutator methods for each of these, in addition to a __str__ method which will return a string containing all six of the data items properly labeled, each on its own line.   The pay() method will return the pay calculated by multiplying the hours worked by the pay rate.
+You are to create a main function which will create at least one DTASProductionWorker object and demonstrate that all of its methods work.
+All the data members are private.
+Create the class DTASSalaryEmployees.  This class is derived from DTASEmployee and contains the data item: Employee’s yearly salary.
+It will contain the accessor and mutator for this data item, a __str__ method which will produce a string as the other __str__ methods.  The method pay will return the yearly salary / 12.   Test this in the main() by creating at least one object of this class and demonstrating that all of its methods work. DTASSalaryEmployee.py

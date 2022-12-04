@@ -1,0 +1,1 @@
+Read integers from the file numbers.txt, sum them and display the sum properly labelled.  Your program will handle a file with any number of integers.

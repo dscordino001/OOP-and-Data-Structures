@@ -1,0 +1,3 @@
+Create and test a function DTAS_is_prime.   This function will take a positive integer greater than 1 and test whether or not it is a prime number.  (Note a prime number can only be evenly divided by 1 and itself.)   If the number is prime, the function will return True.  If it is false, the function will return False.  
+Write a main function to test your function with at least two numbers, one prime and the other composite.  The main function should display the number and tell whether it is a prime or composite.
+Have the function DTAS_is_prime return None if the number is less than or equal to 1.    Have the main function handle this with a message. Use the function DTAS_is_prime to find and list all the prime numbers between 2 and 100.
